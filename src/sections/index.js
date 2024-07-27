@@ -1,0 +1,5 @@
+export {default as Header} from "../sections/Header/header"
+export {default as Footer} from "./footer/footer"
+export {default as HeroM} from "../sections/Hero/hero"
+export {default as MostPupolar} from "../sections/mostPupolar/mostPupolar"
+export {default as Library} from "../sections/Library/library"

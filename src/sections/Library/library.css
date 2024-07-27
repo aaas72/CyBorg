@@ -1,0 +1,14 @@
+.library-items {
+    width: 100%;
+    height: auto;
+    background-color:  #393E46;
+    margin: 100px 0 ;
+    padding: 50px;
+    border-radius:20px ;
+    color: white;
+}
+
+
+.section-header {
+    margin: 0 0 40px 0;
+}

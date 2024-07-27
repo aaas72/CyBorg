@@ -1,0 +1,18 @@
+.button-body {
+    width: 100%;
+    display: flex;
+}
+button {
+    width: 230px;
+    height: 40px;
+    font-weight: bold;
+    border-radius: 50px;
+    background-color:  #4ECCA3;
+    color:  white;
+    margin: auto;
+    text-align: center;
+    font-size: 17px;
+    border: none;
+    
+    
+}

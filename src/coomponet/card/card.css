@@ -1,0 +1,43 @@
+.post-pupolar-items {
+    width: auto;
+    height: auto;
+    padding: 0px;
+    border-radius:15px ;
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%; 
+    row-gap: 5px;
+    margin: 0px auto 30px auto;
+}
+
+.card-wrapper { 
+    width:auto;
+    max-height: 400px; 
+    margin: auto;  
+    padding: 20px;
+    background-color: #232931;
+    border-radius: 8px;
+}
+
+.most-pupolar-content {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0px;
+}
+.most-pupolar-content h4 {
+    color: white;
+}
+.most-pupolar-content h4 span {
+    font-size: 16px;
+}
+.most-pupolar-content ul {
+    color: #4ECCA3;
+    list-style: none;
+    font-weight: bold;
+    font-size: 14px;
+}
+.section-wrapper img {
+    width: 200px;
+    height:300px;
+    border-radius: 5px;
+
+}

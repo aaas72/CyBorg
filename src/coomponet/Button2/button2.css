@@ -1,0 +1,22 @@
+.button2-body{
+    width: 100%;
+    display: flex;
+}
+.button2 {
+    width: 230px;
+    height: 40px;
+    font-weight:400;
+    border-radius: 50px;
+    background: none;
+    color:  EEEEEE;
+    margin: auto;
+    text-align: center;
+    font-size: 15px;
+    border: solid 1px #EEEEEE;
+
+}
+.button2:hover {
+    color: #4ECCA3;
+    border: solid 1px #4ECCA3;
+
+}
