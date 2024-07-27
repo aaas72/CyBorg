@@ -5,6 +5,7 @@ const Home = () => {
     return(
         <>
             <HeroM/>
+            <Footer/>
             <MostPupolar/>
             <Library/>
         </>
