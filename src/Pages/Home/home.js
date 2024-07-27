@@ -7,6 +7,7 @@ const Home = () => {
             <HeroM/>
             <Footer/>
             <MostPupolar/>
+            <Library/>
         </>
     )
 }
